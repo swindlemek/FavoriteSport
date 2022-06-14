@@ -36,3 +36,5 @@ to Japanese animation, but also animation from other countries.
 - デート・ア・ライブ 
 - 機動戦士ガンダムSEED
 - 機動戦士ガンダム逆襲のシャア
+- ワンピース
+- SPY X FAMILY
