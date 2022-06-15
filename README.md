@@ -38,3 +38,4 @@ to Japanese animation, but also animation from other countries.
 - 機動戦士ガンダム逆襲のシャア
 - ワンピース
 - SPY X FAMILY
+- Kuroko no Basket 
