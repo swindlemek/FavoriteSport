@@ -17,17 +17,17 @@ To complete the assignment, please do the following:
 
 # List of Hobby
 Please tell me your favorite sport.
--Basketball
--football 
+- Basketball
+- football 
 - Badminton
 - Cycling
-- Tracking (semi-hiking, e.g. walking on mountain wakakusa)
--Mini basketball
--Basketball
--Basketball
--swimming
--volleyball
--football
+- Tracking(semi-hiking, e.g. walking on mountain wakakusa)
+- Mini basketball
+- Basketball
+- Basketball
+- swimming
+- volleyball
+- football
 - tennis
 - table tennis
 
